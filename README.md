@@ -1,2 +1,2 @@
-# movies
-A React project for choosing your favourite movies
+# Movie Selector
+A React app for choosing your favourite movies
